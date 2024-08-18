@@ -14,31 +14,31 @@
         {
         input: {
             items: [
-                ignamarina-iron/2
+                ignimarina-iron/2
                 coal/4
             ]
-        icon: "ignamarina-iron"
+        icon: "ignimarina-iron"
             }
         output: {
             items: [
-                ignamarina-steel/2
+                ignimarina-steel/2
                 scrap/1
             ]
-        icon: "ignamarina-steel"
+        icon: "ignimarina-steel"
             }
         craftTime: 200
     }
         {
         input: {
             items: [
-                ignamarina-carbon/2
+                ignimarina-carbon/2
                 sand/4
             ]
-        icon: "ignamarina-carbon"
+        icon: "ignimarina-carbon"
             }
         output: {
             items: [
-                ignamarina-silicon/2
+                ignimarina-silicon/2
                 scrap/1
             ]
         icon: "silicon"
