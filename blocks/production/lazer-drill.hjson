@@ -1,0 +1,16 @@
+{
+    "type": "BeamDrill"
+    "name": "Lazer Drill"
+    "category": "production"
+    "size": 2
+    "consumes": {
+        power: 0.15
+    }
+    "range": 3
+    "drillTme": 80
+    "requirements": [
+        iron/35
+        graphite/20
+    ]
+    
+}

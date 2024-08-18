@@ -1,0 +1,16 @@
+{
+    "type": ThermalGenerator
+    "name": "Vent Boiler"
+    "category": power
+    "powerProduction": 0.15
+    "health": 225
+    "attribute": steam
+    "displayEfficiency": false
+    "size": 3
+    "minEfficiency": 8
+    "requirements": [
+        iron/50
+        graphite/20
+    ]
+    "planet": amogus
+}

@@ -1,0 +1,14 @@
+{ 
+  "type": "Conveyor"
+  "category": "distribution"
+  "speed": 0.12
+  "displayedSpeed": 15.5
+  "underBullets": false
+  "solid": false
+  "requirements": [
+    graphite/2
+    iron/1
+  ]
+envEnabled: 5
+envDisabled: 0
+}

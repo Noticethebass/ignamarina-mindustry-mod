@@ -1,0 +1,16 @@
+{
+    "type": "ItemBridge"
+    "category": "distribution"
+    "range": 5
+    "arrowSpacing": 4
+    "fadeIn": true
+    "moveArrows": true
+    "speed": 90
+    "envEnabled": 5
+    "envDisabled": 0
+    "pulse": true
+    requirements: [
+        graphite/15
+        iron/5
+    ]
+}

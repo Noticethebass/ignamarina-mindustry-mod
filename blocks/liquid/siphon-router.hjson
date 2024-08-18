@@ -1,0 +1,10 @@
+{
+    type: LiquidRouter
+    name: "Siphon Router"
+    category: liquid
+    liquidCapacity: 15
+    requirements: [
+        graphite/2
+        iron/3
+    ]
+}

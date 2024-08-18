@@ -1,0 +1,24 @@
+{
+    "type": "CoreBlock"
+    "name": "Core-Outpost"
+    "description": "none"
+    "health": 1500
+    "itemCapacity": 7500
+    "size": 4
+    "unitCapModifier": 25
+    "unitType": alpha
+    "requirements": [
+        graphite/750
+        iron/1250
+    ]
+    "category": effect
+    "hasItems": true
+    "hasColor": true
+    "envEnabled": 4
+    "research": {
+        root: true
+        planet: ignimarina
+        name: ignimarina
+        alwaysUnlocked: true
+    }
+}

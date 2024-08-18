@@ -1,0 +1,11 @@
+{
+    type: conduit
+    name: "Pulse Siphon"
+    category: liquid
+    liquidCapacity: 8
+    requirements: [
+        graphite/1
+        silicon/1
+        titanium/2
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    type: LiquidJunction
+    name: "Siphon Junction"
+    category: liquid
+    requirements: [
+        graphite/2
+        silicon/1
+        titanium/3
+    ]
+}

@@ -1,0 +1,3 @@
+"Name": "Iron Ore",
+"type": OreBlock,
+"itemDrop": "iron"

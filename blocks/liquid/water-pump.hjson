@@ -1,0 +1,12 @@
+{
+    type: SolidPump
+    name: Water Pump
+    category: liquid
+    size: 2
+    result: water
+    pumpAmount: 2
+    requirements: [
+        graphite/55
+        iron/15
+    ]
+}

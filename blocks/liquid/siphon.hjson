@@ -1,0 +1,10 @@
+{
+    type: conduit
+    name: "Siphon"
+    category: liquid
+    liquidCapacity: 5
+    requirements: [
+        graphite/1
+        iron/2
+    ]
+}

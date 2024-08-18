@@ -1,0 +1,11 @@
+{
+    type: LiquidRouter
+    name: "Pulse Siphon Router"
+    category: liquid
+    liquidCapacity: 25
+    requirements: [
+        graphite/2
+        silicon/1
+        titanium/3
+    ]
+}

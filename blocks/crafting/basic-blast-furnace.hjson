@@ -1,0 +1,33 @@
+{
+    "type": "multicraft.MultiCrafter"
+    "name": "Basic Blast Furnace"
+    "description": "Slowely burns iron with coal to get steel"
+	"category": "crafting"
+    "size": 2
+	"requirements": [
+            copper/70
+            lead/45
+            graphite/30
+	],
+    "recipes": 
+        [
+        {
+        input: {
+            items: [
+                amogus-iron/2
+                coal/4
+            ]
+        icon: "amogus-iron"
+            }
+        output: {
+            items: [
+                amogus-steel/2
+                scrap/1
+            ]
+        icon: "amogus-steel"
+            }
+        craftTime: 200
+    }
+    ]
+"itemCapacity": 16,
+}
