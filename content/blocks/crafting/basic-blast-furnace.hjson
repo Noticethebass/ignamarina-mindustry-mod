@@ -5,8 +5,7 @@
 	"category": "crafting"
     "size": 2
 	"requirements": [
-            copper/70
-            lead/45
+            iron/70
             graphite/30
 	],
     "recipes": 
