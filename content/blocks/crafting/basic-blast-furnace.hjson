@@ -28,6 +28,23 @@
             }
         craftTime: 200
     }
+        {
+        input: {
+            items: [
+                ignamarina-carbon/2
+                sand/4
+            ]
+        icon: "ignamarina-carbon"
+            }
+        output: {
+            items: [
+                ignamarina-silicon/2
+                scrap/1
+            ]
+        icon: "silicon"
+            }
+        craftTime: 50
+    }
     ]
-"itemCapacity": 16,
+"itemCapacity": 20,
 }
