@@ -14,17 +14,17 @@
         {
         input: {
             items: [
-                amogus-iron/2
+                ignamarina-iron/2
                 coal/4
             ]
-        icon: "amogus-iron"
+        icon: "ignamarina-iron"
             }
         output: {
             items: [
-                amogus-steel/2
+                ignamarina-steel/2
                 scrap/1
             ]
-        icon: "amogus-steel"
+        icon: "ignamarina-steel"
             }
         craftTime: 200
     }
