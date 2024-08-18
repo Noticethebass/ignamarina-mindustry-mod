@@ -37,7 +37,7 @@
             }
         output: {
             items: [
-                ignimarina-silicon/2
+                silicon/2
                 scrap/1
             ]
         icon: "silicon"
