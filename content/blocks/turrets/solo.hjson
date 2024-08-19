@@ -16,7 +16,8 @@
         shotDelay: 0.28
     }
     ammoTypes: {
-hitSound: dull-explosion
+        ignamarina-iron {
+        hitSound: dull-explosion
         type: BasicBulletType
         width: 6
         height: 10
@@ -38,5 +39,6 @@ hitSound: dull-explosion
         lightningColor: be7766
         lightningDamage: 4
         ammoMultiplier: 2
-  }
-        }
+    }
+    }
+}
