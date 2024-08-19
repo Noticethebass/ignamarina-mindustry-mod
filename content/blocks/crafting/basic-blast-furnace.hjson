@@ -3,7 +3,7 @@
     "name": "Basic Blast Furnace"
     "description": "Slowely burns iron with coal to get steel"
 	"category": "crafting"
-    "size": 2
+    "size": 3
 	"requirements": [
             iron/70
             graphite/30
