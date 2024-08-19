@@ -8,7 +8,7 @@
         graphite/20
         iron/45
     ]
-    range: 20
+    range: 140
     velocityRnd: 0.4
     inaccuracy: 2
     shoot: {
@@ -23,7 +23,7 @@
         height: 10
         speed: 2.5
         lifetime: 72
-        damage: 12
+        damage: 3
         pierce: true
         pierceCap: 3
         frontColor: dea67d
@@ -32,13 +32,13 @@
         trailWidth: 1.2
         trailLength: 6
         trailColor: be7766
-        status: burning
-        statusDuration: 240
+        status: shocked
+        statusDuration: 120
         lightning: 2
-        lightningLength: 5
+        lightningLength: 3
         lightningColor: be7766
-        lightningDamage: 4
-        ammoMultiplier: 2
+        lightningDamage: 2
+        ammoMultiplier: 
     }
     }
 }
