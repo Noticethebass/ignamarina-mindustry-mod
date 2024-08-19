@@ -17,8 +17,8 @@
     "envEnabled": 4
     "research": {
         root: true
-        planet: ignimarina
-        name: ignimarina
+        planet: ignamarina
+        name: ignamarina
         alwaysUnlocked: true
     }
 }
