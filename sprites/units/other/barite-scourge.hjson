@@ -4,7 +4,7 @@ legLength: 22
 legPairOffset: 5
 legSpeed: 0.23
 hovering: true
-immunities: [burning, ignamarina-13m-02-status-radiated, ignamarina-13m-03-status-infested]
+immunities: [burning]
 name: Barite Scourge
 description: A strange lifeform that was born in ignamarina' radioactive biomes.
 health: 1700
