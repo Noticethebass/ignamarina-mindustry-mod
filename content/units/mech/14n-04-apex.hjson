@@ -71,7 +71,7 @@ weapons: [
       trailEffect: dynamicSpikes
       trailChance: -1
       trailInterval: 6
-      sprite: asthosus-hook
+      sprite: ignamarina-hook
       hitEffect: hitMeltdown
       width: 32
       fragOnHit: false

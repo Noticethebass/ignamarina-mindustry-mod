@@ -121,7 +121,7 @@ weapons: [
       despawnUnitCount: 1
       despawnSound: dullExplosion
       despawnUnitRadius: 1
-      despawnUnit: asthosus-18r-11-lightning-emitter
+      despawnUnit: ignamarina-18r-11-lightning-emitter
     }
   }
 ]

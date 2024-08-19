@@ -32,7 +32,7 @@ weapons: [
     bullet: {
       instantDisappear: true
       damage: 0
-      spawnUnit: asthosus-18r-03-smol-missile
+      spawnUnit: ignamarina-18r-03-smol-missile
     }
   }
 ]

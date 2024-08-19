@@ -3,10 +3,10 @@ legCount: 7
 legLength: 15
 legPairOffset: 2
 legSpeed: 0.23
-immunities: [burning, asthosus-13m-02-status-radiated, asthosus-13m-03-status-infested]
+immunities: [burning, ignamarina-13m-02-status-radiated, ignamarina-13m-03-status-infested]
 hovering: true
 name: Barite Crawler
-description: A strange lifeform that was born in Asthosus' radioactive biomes.
+description: A strange lifeform that was born in ignamarina' radioactive biomes.
 health: 300
 armor: 4
 speed: 1.2

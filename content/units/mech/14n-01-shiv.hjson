@@ -45,7 +45,7 @@ abilities: [
           pierceCap: 2
           width: 28
           height: 12
-          sprite: asthosus-energy-blade
+          sprite: ignamarina-energy-blade
           trailEffect: disperseTrail
           trailInterval: 3
         }
