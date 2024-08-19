@@ -16,7 +16,7 @@
         shotDelay: 0.28
     }
     ammoTypes: {
-        ignamarina-iron {
+        ignamarina-iron: {
         hitSound: dull-explosion
         type: BasicBulletType
         width: 6
