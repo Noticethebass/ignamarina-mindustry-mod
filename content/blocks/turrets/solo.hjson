@@ -1,7 +1,7 @@
 {
     type: ItemTurret
     name: Solo
-    category: turrets
+    category: turret
     size: 1
     requirements: [
         silicon/30
