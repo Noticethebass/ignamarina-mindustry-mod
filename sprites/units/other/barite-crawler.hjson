@@ -19,33 +19,6 @@ outlineColor: 42413e
 aimDst: 160
 weapons: [
   {
-    x: 0
-    y: 0
-    mirror: false
-    rotate: false
-    reload: 76
-    inaccuracy: 7
-    shoot: {
-      shots: 3
-    }
-    shootSound: splash
-    bullet: {
-      type: LiquidBulletType
-      liquid: 02b-04-liquid-liquid-barite
-      orbSize: 3
-      damage: 10
-      pierce: true
-      pierceCap: 1
-      knockback: 1
-      speed: 2
-      lifetime: 32
-      puddleSize: 16
-      despawnHit: true
-      despawnSound: splash
-      layer: 99
-    }
-  }
-  {
     name: large-eye
     top: false
     x: 0
