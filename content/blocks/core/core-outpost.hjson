@@ -19,9 +19,8 @@
         root: true
         planet: ignamarina
         name: ignamarina
-        alwaysUnlocked: true
-        researchCostMultiplier: 0.0
-        
     }
+    "researchCostMultiplier": 0,
+    "unlocked": true,
     "planet": ignamarina
 }
