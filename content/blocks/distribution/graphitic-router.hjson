@@ -6,6 +6,8 @@
         iron/15
         graphite/20
     ]
-    research: ignamarina-graphitic-conveyor
-    "planet": ignamarina
+    research: {
+        root: ignamarina-graphitic-conveyor
+        planet: ignamarina
+    }
 }

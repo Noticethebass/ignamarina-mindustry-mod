@@ -8,6 +8,8 @@
         silicon/1
         titanium/2
     ]
-    research: ignamarina-pulse-siphon
-    "planet": ignamarina
+    research: {
+        root: ignamarina-siphon
+        planet: ignamarina
+    }
 }

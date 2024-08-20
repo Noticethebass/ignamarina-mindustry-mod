@@ -7,6 +7,8 @@
         graphite/15
         silicon/10
     ]
-    research: ignamarina-graphitic-conveyor
-    "planet": ignamarina
+    research: {
+        root: ignamarina-graphitic-conveyor
+        planet: ignamarina
+    }
 }

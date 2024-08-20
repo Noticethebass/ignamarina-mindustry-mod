@@ -7,6 +7,8 @@
         graphite/2
         iron/3
     ]
-    research: ignamarina-siphon
-    "planet": ignamarina
+    research: {
+        root: ignamarina-siphon
+        planet: ignamarina
+    }
 }

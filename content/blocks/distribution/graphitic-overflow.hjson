@@ -7,6 +7,9 @@
         graphite/15
         silicon/10
     ]
-    research: ignamarina-graphitic-router
-    "planet": ignamarina
+    "research": {
+        root: ignamarina-graphitic-router
+        planet: ignamarina
+        name: ignamarina
+    }
 }

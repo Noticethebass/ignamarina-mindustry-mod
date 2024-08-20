@@ -42,6 +42,8 @@
         ammoMultiplier: 1
     }
     }
-    "planet": ignamarina
-    research: core-outpost
+    research: {
+        root: ignamarina-core-outpost
+        planet: ignamarina
+    }
 }

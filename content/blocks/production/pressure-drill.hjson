@@ -18,6 +18,8 @@
         graphite/45
         iron/35
     ]
-    "planet": ignamarina
-    research: ignamarina-core-outpost
+    research: {
+        root: ignamarina-core-outpost
+        planet: ignamarina
+    }
 }

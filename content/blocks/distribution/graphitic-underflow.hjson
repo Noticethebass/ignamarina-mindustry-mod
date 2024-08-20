@@ -8,6 +8,8 @@
         silicon/10
     ]
     invert: true
-    research: ignamarina-graphitic-overflow
-    "planet": ignamarina
+    research: {
+        root: ignamarina-graphitic-conveyor
+        planet: ignamarina
+    }
 }

@@ -1,10 +1,15 @@
-type: Wall
-name: Iron Wall
-description: A wall made from iron. 
-size: 1
-health: 320
-category: defense
-research: ignamarina-solo
-requirements: [
-  ignamarina-iron/6
+{
+    type: Wall
+    name: Iron Wall
+    description: A wall made from iron. 
+    size: 1
+    health: 320
+    category: defense
+        research: {
+            root: ignamarina-solo
+            planet: ignamarina
+        }
+    requirements: [
+      ignamarina-iron/6
 ]
+}

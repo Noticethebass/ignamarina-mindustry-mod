@@ -9,4 +9,8 @@
     ]
     research: ignamarina-pulse-siphon
     "planet": ignamarina
+    research: {
+        root: ignamarina-pulse-siphon
+        planet: ignamarina
+    }
 }
