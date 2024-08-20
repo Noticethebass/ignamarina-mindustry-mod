@@ -8,6 +8,7 @@
         graphite/20
         iron/45
     ]
+    health: 120
     range: 140
     velocityRnd: 0.4
     inaccuracy: 2
