@@ -1,7 +1,7 @@
 {
     "type": "ItemBridge"
     "category": "distribution"
-    "name": "Graphitic Conveyour"
+    "name": "Graphitic Bridge Conveyor"
     "range": 5
     "arrowSpacing": 4
     "fadeIn": true
