@@ -13,7 +13,7 @@
         graphite/20
     ]
     research: {
-        root: ignamarina-core-outpost
+        parent: ignamarina-core-outpost
         planet: ignamarina
         "requirements": [
             graphite/10

@@ -10,7 +10,7 @@
     research: ignamarina-pulse-siphon
     "planet": ignamarina
     research: {
-        root: ignamarina-pulse-siphon
+        parent: ignamarina-pulse-siphon
         planet: ignamarina
     }
 }

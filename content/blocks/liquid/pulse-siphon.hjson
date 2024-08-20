@@ -9,7 +9,7 @@
         titanium/2
     ]
     research: {
-        root: ignamarina-siphon
+        parent: ignamarina-siphon
         planet: ignamarina
     }
 }

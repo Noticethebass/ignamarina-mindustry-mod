@@ -6,7 +6,7 @@
     health: 320
     category: defense
         research: {
-            root: ignamarina-solo
+            parent: ignamarina-solo
             planet: ignamarina
             "requirements": [
                 iron/15

@@ -6,7 +6,7 @@
     health: 1280
     category: defense
     research: {
-        root: ignamarina-small-iron-wall
+        parent: ignamarina-small-iron-wall
         planet: ignamarina
         "requirements": [
             iron/60

@@ -16,7 +16,7 @@
     "iron/3" 
   ]
     research: {
-        root: ignamarina-vent-boiler
+        parent: ignamarina-vent-boiler
         planet: ignamarina
         "requirements": [
             graphite/10

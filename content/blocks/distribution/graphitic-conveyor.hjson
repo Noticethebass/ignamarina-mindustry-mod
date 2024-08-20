@@ -12,7 +12,7 @@
 envEnabled: 5
 envDisabled: 0
     research: {
-        root: ignamarina-core-outpost
+        parent: ignamarina-core-outpost
         planet: ignamarina
         "requirements": [
             graphite/10

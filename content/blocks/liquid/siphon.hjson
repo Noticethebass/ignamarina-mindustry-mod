@@ -8,7 +8,7 @@
         iron/2
     ]
     research: {
-        root: ignamarina-water-pump
+        parent: ignamarina-water-pump
         planet: ignamarina
     }
 }

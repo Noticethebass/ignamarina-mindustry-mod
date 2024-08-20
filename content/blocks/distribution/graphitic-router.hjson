@@ -7,7 +7,7 @@
         graphite/20
     ]
     research: {
-        root: ignamarina-graphitic-conveyor
+        parent: ignamarina-graphitic-conveyor
         planet: ignamarina
         "requirements": [
             graphite/10

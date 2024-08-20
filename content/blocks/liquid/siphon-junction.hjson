@@ -7,7 +7,7 @@
         iron/3
     ]
     research: {
-        root: ignamarina-siphon
+        parent: ignamarina-siphon
         planet: ignamarina
     }
 }
