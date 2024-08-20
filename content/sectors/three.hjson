@@ -6,6 +6,6 @@
     captureWave: 19
     alwaysUnlocked: false
     research: {
-        parent: one
+        parent: core-outpost
     }
 }
