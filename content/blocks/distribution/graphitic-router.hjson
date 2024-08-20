@@ -9,5 +9,9 @@
     research: {
         root: ignamarina-graphitic-conveyor
         planet: ignamarina
+        "requirements": [
+            graphite/10
+            iron/2
+        ]
     }
 }

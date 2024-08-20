@@ -8,6 +8,9 @@
         research: {
             root: ignamarina-solo
             planet: ignamarina
+            "requirements": [
+                iron/15
+            ]
         }
     requirements: [
       ignamarina-iron/6

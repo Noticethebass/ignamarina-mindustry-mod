@@ -45,5 +45,10 @@
     research: {
         root: ignamarina-core-outpost
         planet: ignamarina
+        "requirements": [
+            graphite/90
+            silicon/45
+            iron/125
+        ]
     }
 }

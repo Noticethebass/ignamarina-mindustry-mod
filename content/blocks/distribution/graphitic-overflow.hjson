@@ -11,5 +11,10 @@
         root: ignamarina-graphitic-router
         planet: ignamarina
         name: ignamarina
+        "requirements": [
+            graphite/10
+            silicon/5
+            iron/2
+        ]
     }
 }

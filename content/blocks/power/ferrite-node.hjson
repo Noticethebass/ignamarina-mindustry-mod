@@ -18,5 +18,9 @@
     research: {
         root: ignamarina-vent-boiler
         planet: ignamarina
+        "requirements": [
+            graphite/10
+            iron/2
+        ]
     }
 }

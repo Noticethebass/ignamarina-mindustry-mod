@@ -18,5 +18,10 @@
     research: {
         root: ignamarina-graphitic-conveyor
         planet: ignamarina
+        "requirements": [
+            graphite/60
+            silicon/30
+            iron/60
+        ]
     }
 }

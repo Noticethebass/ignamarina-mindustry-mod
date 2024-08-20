@@ -14,5 +14,9 @@ envDisabled: 0
     research: {
         root: ignamarina-core-outpost
         planet: ignamarina
+        "requirements": [
+            graphite/10
+            iron/2
+        ]
     }
 }
