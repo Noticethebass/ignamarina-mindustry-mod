@@ -6,4 +6,6 @@
         graphite/2
         iron/3
     ]
+    research: ignamarina-siphon
+    "planet": ignamarina
 }

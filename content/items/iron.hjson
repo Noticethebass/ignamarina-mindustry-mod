@@ -1,2 +1,5 @@
 "name": "Iron"
 "color": "#cbcbcb"
+research: core-outpost
+alwaysUnlocked: true
+"planet": ignamarina

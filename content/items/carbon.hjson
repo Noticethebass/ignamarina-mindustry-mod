@@ -1,2 +1,5 @@
 "name": "Carbon"
 "color": "#272727"
+research: core-outpost
+alwaysUnlocked: true
+"planet": ignamarina

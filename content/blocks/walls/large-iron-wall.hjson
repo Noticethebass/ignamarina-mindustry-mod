@@ -1,11 +1,12 @@
-type: Wall
-name: Large Iron Wall
-description: A large wall made from iron. 
-size: 2
-health: 1280
-category: defense
-research: ignamarina-solo
-requirements: [
-  ignamarina-iron/24
+{
+    type: Wall
+    name: Large Iron Wall
+    description: A large wall made from iron. 
+    size: 2
+    health: 1280
+    category: defense
+    research: ignamarina-small-iron-wall
+    requirements: [
+    ignamarina-iron/24
 ]
-researchCostMultiplier: 0.5
+}

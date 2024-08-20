@@ -1,10 +1,11 @@
 {
-    type: Router
-    name: Graphitic Router
+    type: Sorter
+    name: Graphitic Sorter
     category: distribution
     requirements: [
-        iron/15
-        graphite/20
+        iron/5
+        graphite/15
+        silicon/10
     ]
     research: ignamarina-graphitic-conveyor
     "planet": ignamarina

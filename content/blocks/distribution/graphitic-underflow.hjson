@@ -1,6 +1,6 @@
 {
     type: OverflowGate
-    name: Graphitic Undeerflow Gate
+    name: Graphitic Underflow Gate
     category: distribution
     requirements: [
         iron/5
@@ -8,4 +8,6 @@
         silicon/10
     ]
     invert: true
+    research: ignamarina-graphitic-overflow
+    "planet": ignamarina
 }

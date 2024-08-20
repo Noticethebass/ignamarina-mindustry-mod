@@ -11,7 +11,10 @@
     "envDisabled": 0
     "pulse": true
     requirements: [
-        graphite/15
-        iron/5
+        graphite/20
+        iron/10
+        silicon/15
     ]
+    research: ignamarina-graphitic-conveyor
+    "planet": ignamarina
 }
