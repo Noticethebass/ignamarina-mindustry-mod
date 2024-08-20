@@ -1,9 +1,9 @@
 {
-    sector: 17
+    sector: 22
     planet: ignamarina-ignamarina
-    name: Two
-    difficulty: 2
-    captureWave: 13
+    name: Three
+    difficulty: 3
+    captureWave: 19
     alwaysUnlocked: false
     research: {
         parent: one
