@@ -38,7 +38,7 @@
         lightningLength: 3
         lightningColor: be7766
         lightningDamage: 2
-        ammoMultiplier: 
+        ammoMultiplier: 1
     }
     }
 }
