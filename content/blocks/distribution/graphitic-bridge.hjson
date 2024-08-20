@@ -16,7 +16,7 @@
         silicon/15
     ]
     research: {
-        root: ignamarina-graphitic-conveyor
+        parent: ignamarina-graphitic-conveyor
         planet: ignamarina
         "requirements": [
             graphite/60
