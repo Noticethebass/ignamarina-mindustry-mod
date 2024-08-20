@@ -1,0 +1,20 @@
+{
+    sector: 10
+    planet: ignamarina-ignamarina
+    name: One
+    difficulty: 2
+    captureWave: 9
+    alwaysUnlocked: true
+    research: {
+        parent: core-outpost
+    }
+}
+    sector: 10
+planet: aquarion-tantros
+localizedName: Algal Fields
+difficulty: 2
+captureWave: 6
+alwaysUnlocked: true
+research: {
+parent: core-pike
+}
