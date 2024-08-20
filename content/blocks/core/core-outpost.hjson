@@ -20,6 +20,8 @@
         planet: ignamarina
         name: ignamarina
         alwaysUnlocked: true
+        researchCostMultiplier: 0.0
+        
     }
     "planet": ignamarina
 }
