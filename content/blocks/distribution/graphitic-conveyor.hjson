@@ -1,6 +1,7 @@
 { 
   "type": "Conveyor"
   "category": "distribution"
+  "name": "Graphitic Conveyor"
   "speed": 0.12
   "displayedSpeed": 15.5
   "underBullets": false

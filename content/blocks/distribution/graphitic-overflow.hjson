@@ -1,0 +1,10 @@
+{
+    type: OverflowGate
+    name: Graphitic Overflow Gate
+    category: distribution
+    requirements: [
+        iron/5
+        graphite/15
+        silicon/10
+    ]
+}

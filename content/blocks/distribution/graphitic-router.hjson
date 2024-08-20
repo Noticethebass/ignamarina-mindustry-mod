@@ -1,0 +1,9 @@
+{
+    type: Router
+    name: Graphitic Router
+    category: distribution
+    requirements: [
+        iron/15
+        graphite/20
+    ]
+}
