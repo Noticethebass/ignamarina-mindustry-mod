@@ -36,9 +36,9 @@
         status: shocked
         statusDuration: 120
         lightning: 2
-        lightningLength: 3
+        lightningLength: 5
         lightningColor: be7766
-        lightningDamage: 2
+        lightningDamage: 3
         ammoMultiplier: 1
     }
     }
