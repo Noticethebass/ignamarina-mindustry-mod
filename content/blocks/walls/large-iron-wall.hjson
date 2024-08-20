@@ -1,5 +1,5 @@
 type: Wall
-name: large iron Wall
+name: Large Iron Wall
 description: A large wall made from iron. 
 size: 2
 health: 1280
