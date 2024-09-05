@@ -1,6 +1,6 @@
 {
     "type": "CoreBlock"
-    "name": "Core-Outpost"
+    "name": "Core Outpost"
     "description": "none"
     "health": 1500
     "itemCapacity": 7500

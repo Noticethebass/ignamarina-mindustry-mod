@@ -1,7 +1,7 @@
 {
     "type": "multicraft.MultiCrafter"
     "name": "Basic Blast Furnace"
-    "description": "Slowly burns iron with coal to get steel"
+    "description": "WIP"
 	"category": "crafting"
     "size": 3
 	"requirements": [
