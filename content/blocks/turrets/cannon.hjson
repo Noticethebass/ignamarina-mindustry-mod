@@ -1,20 +1,21 @@
 {
     type: ItemTurret
-    name: Solo
+    name: Cannon
     category: turret
     size: 2
     requirements: [
-        silicon/30
-        graphite/20
-        iron/45
+        silicon/120
+        graphite/80
+        iron/130
+        steel/90
     ]
-    health: 120
-    range: 140
-    velocityRnd: 0.4
+    health: 260
+    range: 300
+    velocityRnd: 0.2
     inaccuracy: 2
     shoot: {
-        shots: 3
-        shotDelay: 0.28
+        shots: 1
+        shotDelay: 2
     }
     ammoTypes: {
         ignamarina-steel: {
@@ -23,7 +24,7 @@
             width: 12
             height: 17
             lifetime: 90
-            ammoMultiplier: 0.5
+            ammoMultiplier: 1
             pierce: true 
             pierceCap: 6
             damage: 25
