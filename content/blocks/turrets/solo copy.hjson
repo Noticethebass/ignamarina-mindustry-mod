@@ -2,7 +2,7 @@
     type: ItemTurret
     name: Solo
     category: turret
-    size: 1
+    size: 2
     requirements: [
         silicon/30
         graphite/20
