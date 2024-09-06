@@ -1,0 +1,41 @@
+{
+    type: ItemTurret
+    name: Solo
+    category: turret
+    size: 1
+    requirements: [
+        silicon/30
+        graphite/20
+        iron/45
+    ]
+    health: 120
+    range: 140
+    velocityRnd: 0.4
+    inaccuracy: 2
+    shoot: {
+        shots: 3
+        shotDelay: 0.28
+    }
+    ammoTypes: {
+        ignamarina-steel: {
+            hitSound: dull-explosion
+            type: BasicBulletType
+            width: 12
+            height: 17
+            lifetime: 90
+            ammoMultiplier: 0.5
+            pierce: true 
+            pierceCap: 6
+            damage: 25
+        }
+    }
+    research: {
+        parent: ignamarina-core-outpost
+        planet: ignamarina
+        "requirements": [
+            graphite/90
+            silicon/45
+            iron/125
+        ]
+    }
+}

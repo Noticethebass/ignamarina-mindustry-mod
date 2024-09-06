@@ -41,6 +41,30 @@
         lightningDamage: 3
         ammoMultiplier: 1
     }
+            ignamarina-steel: {
+        hitSound: dull-explosion
+        type: BasicBulletType
+        width: 6
+        height: 10
+        speed: 3
+        lifetime: 68
+        damage: 5
+        pierce: true
+        pierceCap: 4
+        frontColor: dea67d
+        backColor: be7766
+        trailChance: -1
+        trailWidth: 1.2
+        trailLength: 7
+        trailColor: be7766
+        status: shocked
+        statusDuration: 150
+        lightning: 3
+        lightningLength: 8
+        lightningColor: be7766
+        lightningDamage: 4
+        ammoMultiplier: 1
+    }
     }
     research: {
         parent: ignamarina-core-outpost
