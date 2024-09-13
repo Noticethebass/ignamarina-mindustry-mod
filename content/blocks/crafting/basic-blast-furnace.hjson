@@ -44,6 +44,23 @@
             }
         craftTime: 50
     }
+        {
+        input: {
+            items: [
+                ignamarina-carbon/2
+                silicon/2
+                steel/2
+            ]
+        icon: "ignamarina-silicon"
+            }
+        output: {
+            items: [
+                composite/2
+            ]
+        icon: "composite"
+            }
+        craftTime: 100
+    }
     ]
 "itemCapacity": 20,
     research: {
