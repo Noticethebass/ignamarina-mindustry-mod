@@ -49,15 +49,15 @@
             items: [
                 ignamarina-carbon/2
                 silicon/2
-                steel/2
+                ignamarina-steel/2
             ]
-        icon: "ignamarina-silicon"
+        icon: "silicon"
             }
         output: {
             items: [
-                composite/2
+                ignamarina-composite/2
             ]
-        icon: "composite"
+        icon: "ignamarina-composite"
             }
         craftTime: 100
     }
