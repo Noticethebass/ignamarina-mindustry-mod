@@ -23,7 +23,7 @@
             type: BasicBulletType
             width: 12
             height: 17
-            lifetime: 90
+            lifetime: 180
             ammoMultiplier: 1
             pierce: true 
             pierceCap: 6
