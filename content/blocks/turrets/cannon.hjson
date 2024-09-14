@@ -10,8 +10,8 @@
         steel/90
     ]
     health: 260
-    range: 300
-    velocityRnd: 0.2
+    range: 450
+    velocityRnd: 0.5
     inaccuracy: 2
     shoot: {
         shots: 1
@@ -23,12 +23,12 @@
             type: ArtilleryBulletType
             width: 12
             height: 17
-            lifetime: 180
+            lifetime: 360
             ammoMultiplier: 3
             pierce: true 
             pierceCap: 6
-            splashDamage: 23
-            splashDamageRadius: 8
+            splashDamage: 56
+            splashDamageRadius: 8x
         }
     }
     research: {
