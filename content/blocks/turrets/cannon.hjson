@@ -20,14 +20,15 @@
     ammoTypes: {
         ignamarina-steel: {
             hitSound: dull-explosion
-            type: BasicBulletType
+            type: ArtilleryBulletType
             width: 12
             height: 17
             lifetime: 180
-            ammoMultiplier: 1
+            ammoMultiplier: 3
             pierce: true 
             pierceCap: 6
-            damage: 25
+            splashDamage: 23
+            splashDamageRadius: 8
         }
     }
     research: {
