@@ -28,7 +28,7 @@
             pierce: true 
             pierceCap: 6
             splashDamage: 56
-            splashDamageRadius: 8x
+            splashDamageRadius: 8
         }
     }
     research: {
