@@ -5,6 +5,7 @@ itemWhitelist: [
 sand,
 iron,
 carbon,
+scrap,
 beryllium,
 titanium,
 silicon,
