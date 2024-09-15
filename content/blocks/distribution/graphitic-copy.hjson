@@ -1,0 +1,23 @@
+{ 
+  "type": "Conveyor"
+  "category": "distribution"
+  "name": "Graphitic Conveyor Copy"
+  "size": 2
+  "speed": 0.12
+  "displayedSpeed": 15.5
+  "underBullets": true
+  "requirements": [
+    graphite/2
+    iron/1
+  ]
+envEnabled: 5
+envDisabled: 0
+    research: {
+        parent: ignamarina-core-outpost
+        planet: ignamarina
+        "requirements": [
+            graphite/10
+            iron/2
+        ]
+    }
+}
