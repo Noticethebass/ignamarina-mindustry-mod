@@ -17,7 +17,7 @@
     "requirements": [
         silicon/150
         steel/45
-        compound/130
+        composite/130
 
     ]
     research: {
@@ -26,7 +26,7 @@
         "requirements": [
             silicon/255
             steel/125
-            compound/250
+            composite/250
         ]
     }
 }
