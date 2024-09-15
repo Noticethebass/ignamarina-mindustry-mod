@@ -1,0 +1,32 @@
+{
+    "type": Drill
+    "name": "Compression Drill"
+    "category": production
+    "health": 435
+    "size": 5
+    "itemCapacity": 15
+    "liquidCapacity": 8
+        "consumes": {
+            liquid: {
+            liquid: water
+            amount: 1.3
+            }
+        power: 1.25
+    }
+    tier: 4
+    "requirements": [
+        silicon/150
+        steel/45
+        compound/130
+
+    ]
+    research: {
+        parent: ignamarina-core-outpost
+        planet: ignamarina
+        "requirements": [
+            silicon/255
+            steel/125
+            compound/250
+        ]
+    }
+}
