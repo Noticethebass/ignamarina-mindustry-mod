@@ -1,0 +1,32 @@
+{
+    "type": "multicraft.MultiCrafter"
+    "name": "Centrifuge"
+    "description": "Spins things really fast to seperate them by weight"
+	"category": "crafting"
+    "size": 4
+	"requirements": [
+            graphite/25
+            silicon/125
+            steel/85
+            composite/65
+	],
+    "recipes": 
+        [
+        {
+        input: {
+            items: [
+                ignaramina-wolframite/5
+            ]
+            power: 1
+
+        }
+        output: {
+            items: [
+                tungsten/1
+                scrap/4
+            ]
+        }
+        craftTime: 100
+    }
+    ]
+}
