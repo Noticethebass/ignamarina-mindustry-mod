@@ -16,7 +16,7 @@
         {
         input: {
             fluids: [
-                ignamarina-extreme-coolant/0.1
+                ignamarina-hot-extreme-coolant/0.1
             ]
             power: 1
             heat: 8
@@ -24,7 +24,7 @@
         }
         output: {
             fluids: [
-                ignamarina-hot-extreme-coolant/0.1
+                ignamarina-extreme-coolant/0.1
             ]
         }
         craftTime: 60
@@ -32,7 +32,7 @@
             {
         input: {
             fluids: [
-                ignamarina-extreme-coolant/0.2
+                ignamarina-hot-extreme-coolant/0.2
             ]
             power: 1
             heat: 16
@@ -40,7 +40,7 @@
         }
         output: {
             fluids: [
-                ignamarina-hot-extreme-coolant/0.2
+                ignamarina-extreme-coolant/0.2
             ]
         }
         craftTime: 60
@@ -48,7 +48,7 @@
                 {
         input: {
             fluids: [
-                ignamarina-extreme-coolant/0.3
+                ignamarina-hot-extreme-coolant/0.3
             ]
             power: 1
             heat: 24
@@ -56,7 +56,7 @@
         }
         output: {
             fluids: [
-                ignamarina-hot-extreme-coolant/0.3
+                ignamarina-extreme-coolant/0.3
             ]
         }
         craftTime: 60
