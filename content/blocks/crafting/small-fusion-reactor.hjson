@@ -23,7 +23,7 @@
                 icon: ignamarina-tritium
             }
             output: {
-                fluids: [1.515
+                fluids: [
                     ignamarina-helium/1.515
                     ignamarina-tritium/0.315
                     ignamarina-hot-extreme-coolant/10

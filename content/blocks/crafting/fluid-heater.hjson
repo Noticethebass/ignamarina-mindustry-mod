@@ -1,0 +1,32 @@
+{
+    "type": "multicraft.MultiCrafter"
+    "name": "Centrifuge"
+    "description": "Spins things really fast to seperate them by weight"
+	"category": "crafting"
+    "size": 4
+	"requirements": [
+            silicon/125
+            steel/85
+            composite/65
+
+	],
+    "recipes": 
+        [
+        {
+        input: {
+            fluids: [
+                ignamarina-extreme-coolant/1
+            ]
+            power: 1
+            heat: 8
+
+        }
+        output: {
+            fluids: [
+                ignamarina-hot-extreme-coolant/1
+            ]
+        }
+        craftTime: 100
+    }
+    ]
+}
