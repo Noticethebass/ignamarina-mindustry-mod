@@ -1,0 +1,116 @@
+{
+    name: small fusion reactor
+    description: Uses nuclear fusion to generate heat. At a smaller scale!   
+    requirements: [
+        silicon/765
+        titanium/325
+        steel/850
+        composite/225
+    ]
+    recipes:
+    [
+        {
+            input: {
+                fluids: [
+                    ignamarina-extreme-coolant/10
+                    ignamarina-tritium/0.625
+                    ignamarina-deuterium/1.25
+                ]
+                power:10
+                icon: ignamarina-tritium
+            }
+            output: {
+                fluids: [1.515
+                    ignamarina-helium/1.515
+                    ignamarina-tritium/0.315
+                ]
+                heat: 24
+                icon: Icon.heat
+            }
+            craftTime: 15
+        }
+    ]
+    researchCostMultiplier: .25
+    research: {
+        parent: hydroxide-reactor
+        planet: tantros
+    }
+drawer: [
+{
+type: drawRegion
+suffix: -bottom
+}
+{
+type: drawLiquidTile
+drawLiquid: hydrogen
+alpha: .9
+padding: 2
+}
+{
+type: DrawCells
+color: ffffff00
+ particleColorFrom: 8d95c2
+range: 17
+particles: 200
+particleColorTo: 549b80
+}
+{
+type: DrawArcSmelt
+flameRad: 8
+circleSpace: 7
+flameRadiusMag: .9
+particles: 40
+particleLife: 45
+particleRad: 14
+alpha: .5
+}
+{
+type: drawRegion
+rotation: 45
+suffix: -fan
+spinSprite: true
+rotateSpeed: 1.5
+}
+{
+type: drawRegion
+rotation: 0
+suffix: -fan
+spinSprite: true
+rotateSpeed: 1.5
+}
+{
+type: DrawArcSmelt
+flameRad: 9
+circleSpace: 8
+flameRadiusMag: .7
+particles: 60
+particleLife: 65
+particleRad: 15
+alpha: .6
+}
+{
+type: DrawCells
+color: ffffff00
+ particleColorFrom: 8d95c2
+range: 17
+particles: 200
+particleColorTo: 549b80
+}
+{
+type: drawLiquidTile
+drawLiquid: hydrogen
+ alpha: .7
+padding: 2
+}
+{
+type: drawRegion
+suffix: -tope
+}
+{
+type: drawSideRegion
+}
+{
+type: drawHeatOutput
+}
+]
+}
