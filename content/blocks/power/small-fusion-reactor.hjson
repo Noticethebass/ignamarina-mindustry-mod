@@ -42,17 +42,17 @@ suffix: -bottom
 }
 {
 type: drawLiquidTile
-drawLiquid: hydrogen
+drawLiquid: ignamarina-deuterium
 alpha: .9
 padding: 2
 }
 {
 type: DrawCells
 color: ffffff00
- particleColorFrom: 8d95c2
+ particleColorFrom: 9b5493
 range: 17
 particles: 200
-particleColorTo: 549b80
+particleColorTo: 7a549b
 }
 {
 type: DrawArcSmelt
@@ -91,14 +91,14 @@ alpha: .6
 {
 type: DrawCells
 color: ffffff00
- particleColorFrom: 8d95c2
+ particleColorFrom: 549b80
 range: 17
 particles: 200
-particleColorTo: 549b80
+particleColorTo: 559b54
 }
 {
 type: drawLiquidTile
-drawLiquid: hydrogen
+drawLiquid: ignamarina-tritium
  alpha: .7
 padding: 2
 }
