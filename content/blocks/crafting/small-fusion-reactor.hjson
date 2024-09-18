@@ -26,6 +26,7 @@
                 fluids: [1.515
                     ignamarina-helium/1.515
                     ignamarina-tritium/0.315
+                    ignamarina-hot-extreme-coolant/10
                 ]
                 heat: 24
                 icon: Icon.heat
@@ -35,8 +36,8 @@
     ]
     researchCostMultiplier: .25
     research: {
-        parent: hydroxide-reactor
-        planet: tantros
+        parent: vent-boiler
+        planet: ignamarina
     }
 drawer: [
 {
