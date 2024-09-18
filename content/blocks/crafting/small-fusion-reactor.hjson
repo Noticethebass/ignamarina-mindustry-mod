@@ -3,6 +3,7 @@
     type: multicraft.MultiCrafter
     description: Uses nuclear fusion to generate heat. At a smaller scale!   
     type: power
+    size: 4
     requirements: [
         silicon/765
         titanium/325
