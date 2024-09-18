@@ -2,7 +2,7 @@
     name: small fusion reactor
     type: multicraft.MultiCrafter
     description: Uses nuclear fusion to generate heat. At a smaller scale!   
-    type: power
+    category: power
     size: 4
     requirements: [
         silicon/765
