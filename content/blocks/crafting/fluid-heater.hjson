@@ -3,7 +3,7 @@
     "name": "Fluid Heater"
     "description": "Heats up fluids"
 	"category": "crafting"
-    "size": 4
+    "size": 5
 	"requirements": [
             silicon/125
             steel/85
