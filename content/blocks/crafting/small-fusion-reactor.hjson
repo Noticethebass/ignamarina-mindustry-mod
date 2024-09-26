@@ -29,7 +29,7 @@
                     ignamarina-hot-extreme-coolant/10
                 ]
                 heat: 24
-                icon: Icon.heat
+                icon: ignamarina-hot-extreme-coolant
             }
             craftTime: 30
         }
