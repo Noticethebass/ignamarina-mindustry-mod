@@ -45,7 +45,6 @@
         }
         craftTime: 60
     }
-    ]
             {
         input: {
             fluids: [
@@ -53,7 +52,6 @@
             ]
             power: 1
             heat: 24
-
         }
         output: {
             fluids: [
@@ -62,4 +60,5 @@
         }
         craftTime: 60
     }
+    ]
 }
