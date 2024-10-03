@@ -1,0 +1,3 @@
+"Name": "Lithium Ore",
+"type": OreBlock,
+"itemDrop": "lithium"

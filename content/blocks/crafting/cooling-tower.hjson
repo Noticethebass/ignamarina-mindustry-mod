@@ -1,0 +1,43 @@
+{
+    name: Cooling Tower
+    type: multicraft.MultiCrafter
+    description: Cools things down
+    category: crafting
+    size: 3
+    requirements: [
+        silicon/650
+        titanium/250
+        steel/750
+        composite/125
+    ]
+    recipes:
+    [
+        {
+            input: {
+                fluids: [
+                    ignamarina-extreme-coolant/10
+                    ignamarina-tritium/0.625
+                    ignamarina-deuterium/1.25
+                ]
+                power:10
+                icon: ignamarina-tritium
+            }
+            output: {
+                fluids: [
+                    ignamarina-helium/1.515
+                    ignamarina-tritium/0.315
+                    ignamarina-hot-extreme-coolant/10
+                ]
+                heat: 24
+                icon: ignamarina-hot-extreme-coolant
+            }
+            craftTime: 30
+        }
+    ]
+    researchCostMultiplier: .25
+    research: {
+        parent: vent-boiler
+        planet: ignamarina
+    }
+]
+}

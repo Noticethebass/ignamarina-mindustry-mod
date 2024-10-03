@@ -10,7 +10,8 @@ beryllium,
 titanium,
 silicon,
 graphite,
-tungsten
+tungsten,
+lithium
 ]
 clearSectorOnLose: true
 orbitTime: 540
